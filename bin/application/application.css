@@ -1,0 +1,14 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+.root{
+	-fx-background-image:url('black2.jpg');
+}
+.rootb{
+	-fx-background-image:url('black2.jpg');
+}
+.addRoot{
+	-fx-background-image:url('black2.jpg');
+}
+.searchRoot{
+	-fx-background-image:url('black2.jpg');
+}
